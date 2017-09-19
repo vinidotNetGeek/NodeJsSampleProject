@@ -1,0 +1,22 @@
+{
+  "name": "nodejssampleproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinidotNetGeek/NodeJsSampleProject.git"
+  },
+  "author": "Vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinidotNetGeek/NodeJsSampleProject/issues"
+  },
+  "homepage": "https://github.com/vinidotNetGeek/NodeJsSampleProject#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
